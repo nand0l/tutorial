@@ -4,3 +4,4 @@ Github testfile
 2. moved into that Folder
 3. Initalized Git with git init 
 4. edit online
+5. edit in GIT Desktop
